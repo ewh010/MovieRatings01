@@ -1,0 +1,9 @@
+{
+  "name": "myMoviePackage",
+  "version": "1.0.0",
+  "description": "Movie Package",
+  "main": "index.js",
+  "repository": "https://github.com/ewh010/MovieRatings01",
+  "author": "Evan Harrington",
+  "license": "MIT"
+}
